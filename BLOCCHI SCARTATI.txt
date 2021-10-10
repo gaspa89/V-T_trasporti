@@ -1,0 +1,159 @@
+<div class="container-fluid partners block-content">
+    <div class="hgroup title-space wow fadeInLeft" data-wow-delay="0.3s">
+        <h1>TRUSTED partners</h1>
+        <h2>Lorem ipsum dolor sit amet consectetur</h2>
+    </div>
+    <div id="partners" class="owl-carousel enable-owl-carousel" data-pagination="false" data-navigation="true" data-min450="2" data-min600="2" data-min768="4">
+        <div class="wow rotateIn" data-wow-delay="0.3s"><a href="#"><img src="media/partners/1.png" alt="Img"></a></div>
+        <div class="wow rotateIn" data-wow-delay="0.3s"><a href="#"><img src="media/partners/2.png" alt="Img"></a></div>
+        <div class="wow rotateIn" data-wow-delay="0.3s"><a href="#"><img src="media/partners/3.png" alt="Img"></a></div>
+        <div class="wow rotateIn" data-wow-delay="0.3s"><a href="#"><img src="media/partners/4.png" alt="Img"></a></div>
+        <div class="wow rotateIn" data-wow-delay="0.3s"><a href="#"><img src="media/partners/1.png" alt="Img"></a></div>
+        <div class="wow rotateIn" data-wow-delay="0.3s"><a href="#"><img src="media/partners/2.png" alt="Img"></a></div>
+    </div>
+</div>
+
+
+
+
+<div class="block-content bg-image blog-section inner-offset">
+    <div class="container-fluid">
+        <div class="hgroup wow fadeInLeft" data-wow-delay="0.3s">
+            <h1>LATEST NEWS</h1>
+            <h2>READ our latest blog news</h2>
+        </div>
+        <a class="btn btn-danger pull-right read-all-news wow fadeInRight" data-wow-delay="0.3s" href="09_blog.html">READ ALL NEWS</a>
+        <div class="row">
+            <div class="col-sm-6 col-md-6 col-lg-6 one-news wow fadeInLeft" data-wow-delay="0.3s">
+                <div style="background-image:url(media/news-images/1.jpg);">
+                    <div>
+                        <a href="11_blog-details.html"><h3>Duis vel tellus vitae ante tincidunt tincidun</h3></a>
+                        <small class="news-author">BY JOHN DEO</small>
+                        <small>JUN 29, 2015</small>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-6 col-md-6 col-lg-6 two-news wow fadeInRight" data-wow-delay="0.3s">
+                <div class="news-item row">
+                    <div class="col-sm-6 col-md-6 col-lg-6">
+                        <div style="background-image:url(media/news-images/2.jpg);"></div>
+                    </div>
+                    <div class="col-sm-6 col-md-6 col-lg-6">
+                        <div>
+                            <a href="11_blog-details.html"><h3>Duis vel tellus vitae ante tincidunt tincidun</h3></a>
+                            <small class="news-author">BY JOHN DEO</small>
+                            <small>JUN 29, 2015</small>
+                        </div>
+                    </div>
+                </div>
+                <div class="news-item row">
+                    <div class="col-sm-6 col-md-6 col-lg-6">
+                        <div style="background-image:url(media/news-images/3.jpg);"></div>
+                    </div>
+                    <div class="col-sm-6 col-md-6 col-lg-6">
+                        <div>
+                            <a href="11_blog-details.html"><h3>Duis vel tellus vitae ante tincidunt tincidun</h3></a>
+                            <small class="news-author">BY JOHN DEO</small>
+                            <small>JUN 29, 2015</small>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+<div class="fleet-gallery block-content bg-image inner-offset">
+        		<div class="container-fluid inner-offset">
+	                <div class="text-center hgroup wow zoomInUp" data-wow-delay="0.3s">
+	                    <h1>THE FLEETS GALLERY</h1>
+	                    <h2>we always use best & fastest fleets</h2>
+	                </div>
+	                <div id="fleet-gallery" class="owl-carousel enable-owl-carousel" data-pagination="false" data-navigation="true" data-min450="2" data-min600="2" data-min768="4">
+	                    <div class="wow rotateIn" data-wow-delay="0.3s"><img src="media/fleet-gallery/1.png" alt="Img"></div>
+	                    <div class="wow rotateIn" data-wow-delay="0.3s"><img src="media/fleet-gallery/2.png" alt="Img"></div>
+	                    <div class="wow rotateIn" data-wow-delay="0.3s"><img src="media/fleet-gallery/3.png" alt="Img"></div>
+	                    <div class="wow rotateIn" data-wow-delay="0.3s"><img src="media/fleet-gallery/4.png" alt="Img"></div>
+	                    <div class="wow rotateIn" data-wow-delay="0.3s"><img src="media/fleet-gallery/1.png" alt="Img"></div>
+	                    <div class="wow rotateIn" data-wow-delay="0.3s"><img src="media/fleet-gallery/2.png" alt="Img"></div>
+	                </div>
+    			</div>
+	        </div>
+
+
+
+            <div class="container-fluid block-content">
+        		<div class="row">
+            		<div class="col-md-6 col-lg-6 wow fadeInLeft" data-wow-delay="0.3s">
+                		<div class="hgroup">
+	                        <h1>DICONO DI NOI</h1>
+	                        <h2>Alcune delle testimonianze dei nostri clienti</h2>
+	                    </div>
+	                    <div id="testimonials" class="owl-carousel enable-owl-carousel" data-single-item="true" data-pagination="false" data-navigation="true" data-auto-play="true">
+	                        <div>
+                        		<div class="testimonial-content">
+                            		<span><i class="fa fa-quote-left"></i></span>
+                            		<p>Integer congue elit non semper laoreet sed lectus orci posuer nisl tempor se felis ac mauris. Pelentesque inyd urna. Integer vitae felis vel magna posu du vestibulum. Nam rutrum congue diam. Aliquam malesuada maurs etug met Curabitur laoreet convallis nisal pellentesque bibendum.</p>
+	                            </div>
+	                            <div class="text-right testimonial-author">
+                            		<h4>JOHN DEO</h4>
+	                                <small>Managing Director</small>
+	                            </div>
+	                        </div>
+	                        <div>
+                        		<div class="testimonial-content">
+                            		<span><i class="fa fa-quote-left"></i></span>
+                            		<p>Integer congue elit non semper laoreet sed lectus orci posuer nisl tempor se felis ac mauris. Pelentesque inyd urna. Integer vitae felis vel magna posu du vestibulum. Nam rutrum congue diam. Aliquam malesuada maurs etug met Curabitur laoreet convallis nisal pellentesque bibendum.</p>
+	                            </div>
+	                            <div class="text-right testimonial-author">
+                            		<h4>JOHN DEO</h4>
+	                                <small>Managing Director</small>
+	                            </div>
+	                        </div>
+	                        <div>
+                        		<div class="testimonial-content">
+                            		<span><i class="fa fa-quote-left"></i></span>
+                            		<p>Integer congue elit non semper laoreet sed lectus orci posuer nisl tempor se felis ac mauris. Pelentesque inyd urna. Integer vitae felis vel magna posu du vestibulum. Nam rutrum congue diam. Aliquam malesuada maurs etug met Curabitur laoreet convallis nisal pellentesque bibendum.</p>
+	                            </div>
+	                            <div class="text-right testimonial-author">
+                            		<h4>JOHN DEO</h4>
+	                                <small>Managing Director</small>
+	                            </div>
+	                        </div>
+	                    </div>
+	                    
+	                </div>
+	                <div class="col-md-6 col-lg-6 wow fadeInRight" data-wow-delay="0.3s">
+                		<div class="hgroup">
+	                        <h1>WHY CHOOSE US</h1>
+	                        <h2>Lorem ipsum dolor sit amet consectetur</h2>
+	                    </div>
+	                    <ul class="why-us">
+                    		<li>
+                        		Dui ac hendrerit elementum quam ipsum auctor lorem
+                        		<p>Integer congue elit non semper laoreet sed lectus orci posuer nisl tempor se felis ac mauris. Pelentesque inyd urna. Integer vitae felis vel magna posu du vestibulum. Nam rutrum congue diam. Aliquam malesuada maurs etug met Curabitur laoreet convallis nisal pellentesque bibendum.</p>
+                        		<span>+</span>
+	                        </li>
+	                        <li>
+                        		Mauris vel magna a est lobortis volutpat
+	                            <p>Integer congue elit non semper laoreet sed lectus orci posuer nisl tempor se felis ac mauris. Pelentesque inyd urna. Integer vitae felis vel magna posu du vestibulum. Nam rutrum congue diam. Aliquam malesuada maurs etug met Curabitur laoreet convallis nisal pellentesque bibendum.</p>
+                        		<span>+</span>
+	                        </li>
+	                        <li>
+                        		Sed bibendum ornare lorem mauris feugiat suspendisse neque
+	                            <p>Integer congue elit non semper laoreet sed lectus orci posuer nisl tempor se felis ac mauris. Pelentesque inyd urna. Integer vitae felis vel magna posu du vestibulum. Nam rutrum congue diam. Aliquam malesuada maurs etug met Curabitur laoreet convallis nisal pellentesque bibendum.</p>
+                        		<span>+</span>
+	                        </li>
+	                        <li>
+                        		Nulla scelerisque dul hendrerit elementum quam
+	                            <p>Integer congue elit non semper laoreet sed lectus orci posuer nisl tempor se felis ac mauris. Pelentesque inyd urna. Integer vitae felis vel magna posu du vestibulum. Nam rutrum congue diam. Aliquam malesuada maurs etug met Curabitur laoreet convallis nisal pellentesque bibendum.</p>
+                        		<span>+</span>
+	                        </li>
+	                    </ul>
+	                </div>
+	            </div>
+	        </div>
