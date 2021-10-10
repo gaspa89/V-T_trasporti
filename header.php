@@ -1,9 +1,45 @@
+<?php 
+$filename = $_SERVER['REQUEST_URI']; 
+switch ($filename) {
+	case '/chisiamo.php':
+		$titolo = "Chi Siamo";
+		// $descrizione = "V&T Trasporti è specializzata nel servizio di trasporto nazionale espresso e standard in 24/48/72 ore.";
+		break;
+		
+	case '/servizi.php':
+		$titolo = "Servizi";
+		// $descrizione = "Tutti i servizi che V&T è in grado di offrire. ";
+	break;
+	
+	case '/trasporti.php':
+		$titolo = "Trasporti";
+	break;
+
+	case '/chisiamo.php':
+		$titolo = "Azienda";
+	break;
+
+	case '/contatti.php':
+		$titolo = "Contatti";
+	break;
+
+	case '/':
+		$titolo = "Homepage";
+	break;
+
+	default:
+
+
+	break;
+}
+?>
+
 <!DOCTYPE html>
 <html>
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>Trans Cargo</title>
+        <title>V&T Trasporti nazionali ed internazionali | <?php echo $titolo ?> </title>
         <link href="css/master.css" rel="stylesheet">
         <!--[if lt IE 9]>
           <script src="//oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
