@@ -4,9 +4,9 @@ include('header.php');
 
 			<div class="bg-image page-title">
 				<div class="container-fluid">
-					<a href="#"><h1>CONTATTACI</h1></a>
+					<a href="contatti.php"><h1>CONTATTACI</h1></a>
 					<div class="pull-right">
-						<a href="01_home.html"><i class="fa fa-home fa-lg"></i></a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="06_services.html">Contattaci</a>
+						<a href="01_home.html"><i class="fa fa-home fa-lg"></i></a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="contatti.php">Contattaci</a>
 					</div>
 				</div>
 			</div>

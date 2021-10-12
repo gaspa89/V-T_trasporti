@@ -146,7 +146,7 @@
 			});
 		},
 		initGoToTop: function(options) {
-			$("#to-top").smoothScroll();
+			// $("#to-top").smoothScroll();
 		},
 		initAccordion: function(options) {
 			$(document).on('click', '.why-us li span', function(){

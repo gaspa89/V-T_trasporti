@@ -49,7 +49,7 @@ switch ($filename) {
 	<body data-scrolling-animations="true">
 		<div class="sp-body">
 			<!-- Loader Landing Page -->
-			<!-- <div id="ip-container" class="ip-container">
+			<div id="ip-container" class="ip-container">
 				<div class="ip-header" >
 					<div class="ip-loader">
 						<svg class="ip-inner" width="60px" height="60px" viewBox="0 0 80 80">
@@ -58,7 +58,7 @@ switch ($filename) {
 						</svg> 
 					</div>
 				</div>
-			</div> -->
+			</div>
 			<!-- Loader end -->
 			
 	        <header id="this-is-top">

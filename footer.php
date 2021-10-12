@@ -14,7 +14,7 @@
 	                            <a href="#"><i class="fa fa-pinterest-square fa-2x"></i></a>
 	                            <a href="#"><i class="fa fa-vimeo-square fa-2x"></i></a> -->
 	                        </div>
-	                        <a href="#" class="btn btn-lg btn-danger">CHIEDI UNA QUOTAZIONE</a>
+	                        <a href="contatti.php" class="btn btn-lg btn-danger">CHIEDI UNA QUOTAZIONE</a>
 	                    </div>
 	                    <div class="col-sm-3 wow zoomIn" data-wow-delay="0.3s">
                     		<h4>I NOSTRI SERVIZI</h4>
@@ -66,7 +66,7 @@
         <!--Theme-->
         <script src="js/wow.min.js"></script>
 		<script src="js/jquery.placeholder.min.js"></script>
-		<script src="js/smoothscroll.min.js"></script>
+		<!-- <script src="js/smoothscroll.min.js"></script> -->
         <script src="js/theme.js"></script>
 	</body>
 </html>
