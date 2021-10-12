@@ -44,21 +44,21 @@ include('header.php');
 <div class="container-fluid">
 	<div class="row column-info block-content" style="margin-bottom: 80px">
 		<div class="col-sm-4 col-md-4 col-lg-4 wow fadeInLeft" data-wow-delay="3.3s">
-			<img src="/img/trasporto-nazionale.png" alt="Trasporto Nazionale">
+			<img src="./img/trasporto-nazionale.png" alt="Trasporto Nazionale">
 			<span></span>
 			<h3>TRASPORTI NAZIONALI</h3>
 			<p>Proponiamo il servizio di Trasporto su tutto il territorio nazionale di merce pallettizzata oltre che colli sfusi, sia con trasporti espressi con mezzi dedicati sia in sistema di groupage. </p>
 			<a href="/trasporti.php" class="btn btn-default btn-sm">APPROFONDISCI</a>
 		</div>
 		<div class="col-sm-4 col-md-4 col-lg-4 wow fadeInUp" data-wow-delay="3.3s">
-			<img src="/img/trasporto-internazionale.png" alt="trasporto Internazionale">
+			<img src="./img/trasporto-internazionale.png" alt="trasporto Internazionale">
 			<span></span>
 			<h3>TRASPORTI INTERNAZIONALI</h3>
 			<p>Proponiamo il servizio di Trasporto internazionale sia per piccoli colli che per merce su bancale. Offriamo inoltre, grazie ad accordi con courrier mondiali la possibilità di spedire via nave, via terra e via aerea in tutto il mondo avendo così un unico referente logistico.</p>
 			<a href="/trasporti.php" class="btn btn-default btn-sm">APPROFONDISCI</a>
 		</div>
 		<div class="col-sm-4 col-md-4 col-lg-4 wow fadeInRight" data-wow-delay="3.3s">
-			<img src="/img/logistica-outsourcing.png" alt="Logistica in Outsourcing">
+			<img src="./img/logistica-outsourcing.png" alt="Logistica in Outsourcing">
 			<span></span>
 			<h3>LOGISTICA IN OUTSOURCING</h3>
 			<p>Con il nostro servizio di outsourcing avrai a tua disposizione un'area dedicata del nostro magazzino, personale qualificato, una piattaforma tecnologica innovativa, tariffe di spedizioni competitive, il tutto in un'offerta commerciale pay-per-use flessibile e scalabile.</p>

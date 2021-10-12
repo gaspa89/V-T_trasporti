@@ -67,7 +67,7 @@ switch ($filename) {
 	                    <nav class="col-sm-offset-3 col-md-offset-4 col-lg-offset-4 col-sm-6 col-md-5 col-lg-5">
 	                        <p class="m-0" style="padding-top:7px !important; color: #fff">V&T Trasporti | Trasporti nazionali ed internazionali in 24/48/72 ore</p>
 	                    </nav>
-	                    <nav class="text-right col-sm-3 col-md-3 col-lg-3">
+	                    <nav id="social-nav" class="text-right col-sm-3 col-md-3 col-lg-3">
 	                        <!-- <a href="#"><i class="fa fa-facebook"></i></a>
 	                        <a href="#"><i class="fa fa-google-plus"></i></a>
 	                        <a href="#"><i class="fa fa-twitter"></i></a>
@@ -79,7 +79,7 @@ switch ($filename) {
 	                    <div class="col-sm-3 col-md-3 col-lg-3">
 	                        <a href="index.php" id="logo"></a>
 	                    </div>
-	                    <div class="col-sm-offset-1 col-md-offset-1 col-lg-offset-1 col-sm-8 col-md-8 col-lg-8">
+	                    <div id="contatti-header" class="col-sm-offset-1 col-md-offset-1 col-lg-offset-1 col-sm-8 col-md-8 col-lg-8">
 	                        <div class="text-right header-padding">
 	                            <div class="h-block"><span>CONTATTI</span>1.800.987.6543</div>
 	                            <div class="h-block"><span>EMAIL</span><a href="mailto:info@vettrasporti.it">info@vettrasporti.it</a></div>
