@@ -15,8 +15,8 @@ include('header.php');
 
 <div class="container-fluid block-content">
 	<div class="row">
-		<div class="col-sm-6 wow fadeInLeft" data-wow-delay="0.3s">
-			<h1>V&T Trasporti</h1>
+		<div class="col-sm-12 wow fadeInLeft" data-wow-delay="0.3s">
+			<img src="/img/logo-vt-orizzontale.png" class="pb-5" style="padding-bottom: 2rem">
 			<p>V&T Trasporti è un’azienda di trasporti nazionali ed internazionali che ogni giorno collega tutti i principali poli regionali e nazionali, assicurando la massima efficienza e puntualità, grazie ad un sistema organizzativo che permette di gestire in modo duttile le diverse forme di trasporto, la personalizzazione del servizio e l’efficienza dell’apparato logistico, il tutto unito alla tradizionale cortesia del personale.
 				V&T garantisce un pacchetto logistico completo, dallo stoccaggio alla consegna, quale che sia il settore di appartenenza del nostro cliente.
 			</p>
@@ -24,9 +24,7 @@ include('header.php');
 
 			<p>Flessibilità logistica, cortesia e preparazione del personale, capacità di assecondare le richieste della clientela, sono i punti di forza di V&T Trasporti.</p>
 		</div>
-		<div class="col-sm-6 wow fadeInRight" data-wow-delay="0.3s">
-			<img class="full-width" src="./img/logo-quadrato.png" alt="V&T Trasporti">
-		</div>
+
 	</div>
 </div>
 
