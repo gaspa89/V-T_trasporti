@@ -123,7 +123,7 @@ hgroup h2 + h1, hgroup h1 + h2{
 	height:60px;
 	background-repeat:no-repeat;
 	cursor:pointer;
-	display:inline-block;
+	display: inline-block;
 	border:none;
 }
 .header-padding{
@@ -1545,4 +1545,20 @@ footer, footer a, footer .copy{
 
 .list li{
 	line-height: 25px;
+}
+
+.position-relative{
+	position: relative !important;
+}
+
+.logo-desktop{
+	position: absolute !important;
+	left: 80px;
+}
+.logo-desktop img{
+	width: 200px;
+}
+
+.logo-mobile{
+	display: none;
 }

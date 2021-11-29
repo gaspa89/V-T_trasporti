@@ -12,6 +12,8 @@
 		right:-5px;
 		margin-top:0px;
 	}
+
+	
 }
 @media screen and (max-width: 992px) {
 	.big-hr{
@@ -35,6 +37,10 @@
 }
 
 @media screen and (max-width: 798px) {
+	.logo-mobile {display: block }
+	.logo-desktop {
+		display: none !important;
+	}
 	.main-menu{
 		display:none;
 		position:fixed;
